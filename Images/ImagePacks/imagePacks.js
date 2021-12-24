@@ -2718,6 +2718,39 @@ window.imagePacks = {
                                      ]
                        },
                        {
+                           "name":  "Friend/Bar",
+                           "path":  "Friend/Bar",
+                           "files":  [
+                                         {
+                                             "fileName":  "Bar.jpg",
+                                             "height":  775,
+                                             "width":  775
+                                         }
+                                     ]
+                       },
+                       {
+                           "name":  "Friend/BlackDress",
+                           "path":  "Friend/BlackDress",
+                           "files":  [
+                                         {
+                                             "fileName":  "Hope Outfit 14.jpg",
+                                             "height":  626,
+                                             "width":  281
+                                         }
+                                     ]
+                       },
+                       {
+                           "name":  "Friend/BlueDiaper",
+                           "path":  "Friend/BlueDiaper",
+                           "files":  [
+                                         {
+                                             "fileName":  "DL1.jpg",
+                                             "height":  389,
+                                             "width":  564
+                                         }
+                                     ]
+                       },
+                       {
                            "name":  "Friend/BoyTrapManga",
                            "path":  "Friend/BoyTrapManga",
                            "files":  [
@@ -2729,6 +2762,17 @@ window.imagePacks = {
                                      ]
                        },
                        {
+                           "name":  "Friend/BunnyOnesie",
+                           "path":  "Friend/BunnyOnesie",
+                           "files":  [
+                                         {
+                                             "fileName":  "PBRSF.jpg",
+                                             "height":  1534,
+                                             "width":  1536
+                                         }
+                                     ]
+                       },
+                       {
                            "name":  "Friend/CatchupCage",
                            "path":  "Friend/CatchupCage",
                            "files":  [
@@ -2736,6 +2780,17 @@ window.imagePacks = {
                                              "fileName":  "Catchup Cage.jpg",
                                              "height":  408,
                                              "width":  555
+                                         }
+                                     ]
+                       },
+                       {
+                           "name":  "Friend/CheerOutfit",
+                           "path":  "Friend/CheerOutfit",
+                           "files":  [
+                                         {
+                                             "fileName":  "Cheer.jpg",
+                                             "height":  671,
+                                             "width":  671
                                          }
                                      ]
                        },
@@ -2758,6 +2813,17 @@ window.imagePacks = {
                                              "fileName":  "stockings_74.jpg",
                                              "height":  300,
                                              "width":  300
+                                         }
+                                     ]
+                       },
+                       {
+                           "name":  "Friend/Crib",
+                           "path":  "Friend/Crib",
+                           "files":  [
+                                         {
+                                             "fileName":  "Bed 2.jpg",
+                                             "height":  449,
+                                             "width":  451
                                          }
                                      ]
                        },
@@ -3031,6 +3097,17 @@ window.imagePacks = {
                                      ]
                        },
                        {
+                           "name":  "Friend/PinkSailorOnesie",
+                           "path":  "Friend/PinkSailorOnesie",
+                           "files":  [
+                                         {
+                                             "fileName":  "Onesie dress.jpg",
+                                             "height":  500,
+                                             "width":  500
+                                         }
+                                     ]
+                       },
+                       {
                            "name":  "Friend/Pool",
                            "path":  "Friend/Pool",
                            "files":  [
@@ -3038,6 +3115,17 @@ window.imagePacks = {
                                              "fileName":  "Pool_1.png",
                                              "height":  808,
                                              "width":  1157
+                                         }
+                                     ]
+                       },
+                       {
+                           "name":  "Friend/PrincessPinkDiaper",
+                           "path":  "Friend/PrincessPinkDiaper",
+                           "files":  [
+                                         {
+                                             "fileName":  "Pink-Princess-single-1.jpg",
+                                             "height":  1000,
+                                             "width":  1000
                                          }
                                      ]
                        },
@@ -3099,6 +3187,83 @@ window.imagePacks = {
                                              "fileName":  "TFriend Changing.jpg",
                                              "height":  489,
                                              "width":  407
+                                         }
+                                     ]
+                       },
+                       {
+                           "name":  "Friend/TennisCourt",
+                           "path":  "Friend/TennisCourt",
+                           "files":  [
+                                         {
+                                             "fileName":  "private-tennis-court.jpg",
+                                             "height":  383,
+                                             "width":  611
+                                         }
+                                     ]
+                       },
+                       {
+                           "name":  "Friend/TennisOutfit",
+                           "path":  "Friend/TennisOutfit",
+                           "files":  [
+                                         {
+                                             "fileName":  "Tennis.jpg",
+                                             "height":  300,
+                                             "width":  300
+                                         }
+                                     ]
+                       },
+                       {
+                           "name":  "Friend/TennisShot",
+                           "path":  "Friend/TennisShot",
+                           "files":  [
+                                         {
+                                             "fileName":  "Tennis shot.jpg",
+                                             "height":  506,
+                                             "width":  518
+                                         }
+                                     ]
+                       },
+                       {
+                           "name":  "Friend/TowelF",
+                           "path":  "Friend/TowelF",
+                           "files":  [
+                                         {
+                                             "fileName":  "Towel F.jpg",
+                                             "height":  527,
+                                             "width":  444
+                                         }
+                                     ]
+                       },
+                       {
+                           "name":  "Friend/TowelM",
+                           "path":  "Friend/TowelM",
+                           "files":  [
+                                         {
+                                             "fileName":  "Towel M.jpg",
+                                             "height":  801,
+                                             "width":  532
+                                         }
+                                     ]
+                       },
+                       {
+                           "name":  "Friend/TowelT",
+                           "path":  "Friend/TowelT",
+                           "files":  [
+                                         {
+                                             "fileName":  "Towel T.jpg",
+                                             "height":  375,
+                                             "width":  347
+                                         }
+                                     ]
+                       },
+                       {
+                           "name":  "Friend/WhiteRoom",
+                           "path":  "Friend/WhiteRoom",
+                           "files":  [
+                                         {
+                                             "fileName":  "HOPE Bed.jpg",
+                                             "height":  426,
+                                             "width":  640
                                          }
                                      ]
                        },

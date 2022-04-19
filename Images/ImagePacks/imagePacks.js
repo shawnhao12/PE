@@ -2871,6 +2871,39 @@ window.imagePacks = {
                                      ]
                        },
                        {
+                           "name":  "Friend/Game Chair",
+                           "path":  "Friend/Game Chair",
+                           "files":  [
+                                         {
+                                             "fileName":  "QCWOW Chair 2.jpg",
+                                             "height":  300,
+                                             "width":  293
+                                         }
+                                     ]
+                       },
+                       {
+                           "name":  "Friend/Game Plug",
+                           "path":  "Friend/Game Plug",
+                           "files":  [
+                                         {
+                                             "fileName":  "Game Plug.jpg",
+                                             "height":  720,
+                                             "width":  720
+                                         }
+                                     ]
+                       },
+                       {
+                           "name":  "Friend/Game Sexy Avatar",
+                           "path":  "Friend/Game Sexy Avatar",
+                           "files":  [
+                                         {
+                                             "fileName":  "QWCoW.jpg",
+                                             "height":  477,
+                                             "width":  286
+                                         }
+                                     ]
+                       },
+                       {
                            "name":  "Friend/GameMarkers",
                            "path":  "Friend/GameMarkers",
                            "files":  [
@@ -3097,6 +3130,39 @@ window.imagePacks = {
                                      ]
                        },
                        {
+                           "name":  "Friend/NewFemaleBedroom",
+                           "path":  "Friend/NewFemaleBedroom",
+                           "files":  [
+                                         {
+                                             "fileName":  "New Friend F Bedroom.jpg",
+                                             "height":  510,
+                                             "width":  564
+                                         }
+                                     ]
+                       },
+                       {
+                           "name":  "Friend/NewMaleBedroom",
+                           "path":  "Friend/NewMaleBedroom",
+                           "files":  [
+                                         {
+                                             "fileName":  "New Friend M Bedroom.jpg",
+                                             "height":  819,
+                                             "width":  564
+                                         }
+                                     ]
+                       },
+                       {
+                           "name":  "Friend/NewTransBedroom",
+                           "path":  "Friend/NewTransBedroom",
+                           "files":  [
+                                         {
+                                             "fileName":  "New Friend T Bedroom.jpg",
+                                             "height":  297,
+                                             "width":  400
+                                         }
+                                     ]
+                       },
+                       {
                            "name":  "Friend/PinkSailorOnesie",
                            "path":  "Friend/PinkSailorOnesie",
                            "files":  [
@@ -3257,6 +3323,17 @@ window.imagePacks = {
                                      ]
                        },
                        {
+                           "name":  "Friend/Voice Pattern",
+                           "path":  "Friend/Voice Pattern",
+                           "files":  [
+                                         {
+                                             "fileName":  "spectrogram.jpg",
+                                             "height":  435,
+                                             "width":  720
+                                         }
+                                     ]
+                       },
+                       {
                            "name":  "Friend/WhiteRoom",
                            "path":  "Friend/WhiteRoom",
                            "files":  [
@@ -3277,6 +3354,13 @@ window.imagePacks = {
                        {
                            "name":  "Friend/Tasks/friend_teacher_task_heels_images",
                            "path":  "Friend/Tasks/friend_teacher_task_heels_images",
+                           "files":  [
+
+                                     ]
+                       },
+                       {
+                           "name":  "Friend/Tasks/GirlyDessert",
+                           "path":  "Friend/Tasks/GirlyDessert",
                            "files":  [
 
                                      ]
@@ -3485,6 +3569,17 @@ window.imagePacks = {
                                              "fileName":  "mall.gif",
                                              "height":  297,
                                              "width":  500
+                                         }
+                                     ]
+                       },
+                       {
+                           "name":  "Friend/Tasks/GirlyDessert/Unicone",
+                           "path":  "Friend/Tasks/GirlyDessert/Unicone",
+                           "files":  [
+                                         {
+                                             "fileName":  "Dessert 2.jpg",
+                                             "height":  300,
+                                             "width":  300
                                          }
                                      ]
                        },
